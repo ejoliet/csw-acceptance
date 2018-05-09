@@ -52,7 +52,8 @@ class AcceptanceTestRunner(testProjectName: String) {
       "-l",
       "csw.commons.tags.LoggingSystemSensitive",
       "-R",
-      testJarRunpath
+      testJarRunpath,
+      "-h", "docs-test/html-report/"
     )
   }
 

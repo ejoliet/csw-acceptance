@@ -8,6 +8,7 @@ object Dependencies {
     Libs.`junit-interface`,
     Libs.`mockito-core`,
     Libs.`gson`,
+    Libs.`pegdown`,
     Akka.`akka-stream-testkit`,
     Akka.`akka-multi-node-testkit`,
     CSW.`csw-commons-tests`

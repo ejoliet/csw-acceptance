@@ -10,7 +10,7 @@ object Libs {
   val `scalatest-embedded-kafka` = "net.manub"            %% "scalatest-embedded-kafka" % "1.0.0"
   val `embedded-redis`           = "com.github.sebruck"   %% "scalatest-embedded-redis" % "0.3.0"
   val `gson`                     = "com.google.code.gson" % "gson"                      % "2.8.2" //Apache 2.0
-
+  val `pegdown`                  = "org.pegdown"    	  %  "pegdown"     		% "1.6.0"  
 }
 
 object CSW {
